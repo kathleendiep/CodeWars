@@ -1,0 +1,7 @@
+const stringToNumber = function(str){
+    // put your code here
+    const string = parseInt(str)
+    return string;
+  }
+  
+  
