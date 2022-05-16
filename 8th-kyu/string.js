@@ -4,4 +4,7 @@ const stringToNumber = function(str){
     return string;
   }
   
+  var stringToNumber = function(str){
+    return parseInt(str);
+  }
   
